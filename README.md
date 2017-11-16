@@ -1,2 +1,3 @@
 # common-components-buttons
-A sample repository about buttons.
+
+<em>A sample repository about buttons.</em>
